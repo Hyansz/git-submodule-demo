@@ -1,0 +1,7 @@
+<========== Snapshot ==========>
+Semua perubahan yang terjadi akan direkam
+Snapshot berisikan semua perubahan yang terjadi di semua file yang kita commit
+Setiap snapshot akan menghasilkan hash
+
+<========== Hash ==========>
+merupakan checksum untuk menghitung perubahan yang terjadi

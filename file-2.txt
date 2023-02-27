@@ -2,3 +2,4 @@ oi
 noi
 bobi
 baris 3
+menambah feature 2

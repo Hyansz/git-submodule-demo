@@ -3,5 +3,6 @@ fiature/a
 
 fiature/rebase
 fiature/d
+feature/merge-squash
 
 feature/merge-rebase

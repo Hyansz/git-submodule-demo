@@ -7,5 +7,6 @@ menambah feature/a
 
 menambah feature/d
 menambah feature/rebase
+feature/merge-squash
 
 feature/merge-rebase

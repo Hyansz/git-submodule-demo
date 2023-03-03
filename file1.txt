@@ -1,4 +1,8 @@
 fiature 1
 fiature/a
 
+<<<<<<< HEAD
 fiature/rebase
+=======
+fiature/d
+>>>>>>> feature/rebase

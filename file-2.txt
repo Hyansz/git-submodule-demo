@@ -5,4 +5,8 @@ baris 3
 menambah feature 2
 menambah feature/a
 
+<<<<<<< HEAD
 menambah feature/d
+=======
+menambah feature/rebase
+>>>>>>> feature/rebase
